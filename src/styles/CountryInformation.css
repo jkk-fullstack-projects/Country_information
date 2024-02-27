@@ -1,0 +1,37 @@
+.countryCard {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    overflow: hidden;
+    margin-bottom: 20px;
+    padding: 15px;
+}
+
+.countryCard-img-top {
+    margin-bottom: 0;
+    width: 100%;
+    height: auto;
+}
+
+.countryCard-body {
+    font-family: 'Roboto', sans-serif;
+    color: #717171;
+    padding: 5px;
+}
+
+.countryCard-body h5 {
+    font-size: 1rem;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+
+.countryCard-body p {
+    margin: 4px 0; /* Reduced spacing between text elements */
+    font-size: 0.9rem;
+    padding: 0px;
+}
+
+.creditInfo {
+    font-size: 0.7rem;
+    font-style: italic;
+    margin: 2px 0;
+}
