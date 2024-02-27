@@ -1,3 +1,8 @@
+![maiden_tiedot_app](https://github.com/jkk-fullstack-projects/Country_information/assets/65396501/70501c9f-ba1f-44c3-a14f-f17454295cb7)
+
+Please note! 
+Works better in Safari and Firefox: Usually Chrome enforces strict http/https loading rules - leading to the situation where the weather info is not shown, unless your Chrome browser is configured to allow http/https loading.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
